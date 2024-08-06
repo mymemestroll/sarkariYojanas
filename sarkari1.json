@@ -3,17 +3,17 @@
     "id": 1,
     "title": "Pradhan Mantri Awas Yojana",
     "description": "Housing for All by 2022",
-    "imageUrl": "https://example.com/awas_yojana.jpg",
+    "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
     "details": [
       {
         "title": "How to Apply",
         "content": "Detailed steps to apply for PMAY.",
-        "imageUrl": "https://example.com/pmay_apply.jpg"
+        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg"
       },
       {
         "title": "Last Date to Apply",
         "content": "The last date to apply is December 31, 2024.",
-        "imageUrl": "https://example.com/pmay_lastdate.jpg"
+        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg"
       }
     ]
   },
@@ -21,17 +21,17 @@
     "id": 2,
     "title": "Ayushman Bharat",
     "description": "Health Insurance Scheme",
-    "imageUrl": "https://example.com/ayushman_bharat.jpg",
+    "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
     "details": [
       {
         "title": "How to Apply",
         "content": "Steps to enroll in Ayushman Bharat.",
-        "imageUrl": "https://example.com/ayushman_apply.jpg"
+        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg"
       },
       {
         "title": "Last Date to Apply",
         "content": "Enrollments are open throughout the year.",
-        "imageUrl": "https://example.com/ayushman_lastdate.jpg"
+        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg"
       }
     ]
   }
