@@ -1,106 +1,109 @@
-[
-  {
-    "id": 1,
-    "title": "Pradhan Mantri Awas Yojana",
-    "description": "Housing for All by 2022 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-    "imageUrl": "https://cdn.discordapp.com/attachments/1042453370734137375/1270775325944451142/Pngtreeautumn_village_2522730.png?ex=66b4ed3f&is=66b39bbf&hm=ff5863427328b5d7efac7a53943295c29f1d458d745b4bc85266649bd0a5c4ed&",
-    "websiteUrl": "na",
-    "type": "0",
-    "details": [
-      {
-        "id": 1,
-        "title": "How to Apply",
-        "content": "Detailed steps to apply for PMAY. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-        "imageUrl": "https://cdn.discordapp.com/attachments/1042453370734137375/1270774725852926004/Pngtreeindian_farmers_carry_farm_tools_6839602.png?ex=66b4ecb0&is=66b39b30&hm=b90327e5a1dd98db2c5873b62ca4b933ec1b94ad90e14c81702a3103161d63df&",
-        "websiteUrl": "na",
-        "type": "0"
-      },
-      {
-        "id": 2,
-        "title": "Last Date to Apply",
-        "content": "The last date to apply is December 31, 2024.",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "na",
-        "type": "0"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Ayushman Bharat",
-    "description": "Health Insurance Scheme Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-    "imageUrl": "https://cdn.discordapp.com/attachments/1042453370734137375/1270774725852926004/Pngtreeindian_farmers_carry_farm_tools_6839602.png?ex=66b4ecb0&is=66b39b30&hm=b90327e5a1dd98db2c5873b62ca4b933ec1b94ad90e14c81702a3103161d63df&",
-    "websiteUrl": "na",
-    "type": "0",
-    "details": [
-      {
-        "id": 1,
-        "title": "How to Apply",
-        "content": "Steps to enroll in Ayushman Bharat.",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "na",
-        "type": "0"
-      },
-      {
-        "id": 2,
-        "title": "Last Date to Apply",
-        "content": "Enrollments are open throughout the year. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "na",
-        "type": "0"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Pradhan Mantri Awas Yojana",
-    "description": "Housing for All by 2022 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-    "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-    "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-    "type": "0",
-    "details": [
-      {
-        "id": 1,
-        "title": "How to Apply",
-        "content": "Detailed steps to apply for PMAY. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-        "type": "2"
-      },
-      {
-        "id": 2,
-        "title": "Last Date to Apply",
-        "content": "The last date to apply is December 31, 2024.",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "na",
-        "type": "0"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Ayushman Bharat",
-    "description": "Health Insurance Scheme Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-    "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-    "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-    "type": "1",
-    "details": [
-      {
-        "id": 1,
-        "title": "How to Apply",
-        "content": "Steps to enroll in Ayushman Bharat.",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-        "type": "1"
-      },
-      {
-        "id": 2,
-        "title": "Last Date to Apply",
-        "content": "Enrollments are open throughout the year. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
-        "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
-        "websiteUrl": "na",
-        "type": "0"
-      }
-    ]
-  }
-]
+{
+  "slidingText": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "main": [
+    {
+      "id": 1,
+      "title": "Pradhan Mantri Awas Yojana",
+      "description": "Housing for All by 2022 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1042453370734137375/1270775325944451142/Pngtreeautumn_village_2522730.png?ex=66b4ed3f&is=66b39bbf&hm=ff5863427328b5d7efac7a53943295c29f1d458d745b4bc85266649bd0a5c4ed&",
+      "websiteUrl": "na",
+      "type": "0",
+      "details": [
+        {
+          "id": 1,
+          "title": "How to Apply",
+          "content": "Detailed steps to apply for PMAY. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+          "imageUrl": "https://cdn.discordapp.com/attachments/1042453370734137375/1270774725852926004/Pngtreeindian_farmers_carry_farm_tools_6839602.png?ex=66b4ecb0&is=66b39b30&hm=b90327e5a1dd98db2c5873b62ca4b933ec1b94ad90e14c81702a3103161d63df&",
+          "websiteUrl": "na",
+          "type": "0"
+        },
+        {
+          "id": 2,
+          "title": "Last Date to Apply",
+          "content": "The last date to apply is December 31, 2024.",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "na",
+          "type": "0"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ayushman Bharat",
+      "description": "Health Insurance Scheme Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1042453370734137375/1270774725852926004/Pngtreeindian_farmers_carry_farm_tools_6839602.png?ex=66b4ecb0&is=66b39b30&hm=b90327e5a1dd98db2c5873b62ca4b933ec1b94ad90e14c81702a3103161d63df&",
+      "websiteUrl": "na",
+      "type": "0",
+      "details": [
+        {
+          "id": 1,
+          "title": "How to Apply",
+          "content": "Steps to enroll in Ayushman Bharat.",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "na",
+          "type": "0"
+        },
+        {
+          "id": 2,
+          "title": "Last Date to Apply",
+          "content": "Enrollments are open throughout the year. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "na",
+          "type": "0"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pradhan Mantri Awas Yojana",
+      "description": "Housing for All by 2022 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+      "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+      "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
+      "type": "0",
+      "details": [
+        {
+          "id": 1,
+          "title": "How to Apply",
+          "content": "Detailed steps to apply for PMAY. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
+          "type": "2"
+        },
+        {
+          "id": 2,
+          "title": "Last Date to Apply",
+          "content": "The last date to apply is December 31, 2024.",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "na",
+          "type": "0"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ayushman Bharat",
+      "description": "Health Insurance Scheme Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+      "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+      "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
+      "type": "1",
+      "details": [
+        {
+          "id": 1,
+          "title": "How to Apply",
+          "content": "Steps to enroll in Ayushman Bharat.",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
+          "type": "1"
+        },
+        {
+          "id": 2,
+          "title": "Last Date to Apply",
+          "content": "Enrollments are open throughout the year. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
+          "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
+          "websiteUrl": "na",
+          "type": "0"
+        }
+      ]
+    }
+  ]
+}
