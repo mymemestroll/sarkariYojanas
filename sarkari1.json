@@ -57,7 +57,7 @@
     "description": "Housing for All by 2022 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
     "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
     "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-    "type": "1",
+    "type": "0",
     "details": [
       {
         "id": 1,
@@ -65,7 +65,7 @@
         "content": "Detailed steps to apply for PMAY. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
         "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
         "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-        "type": "0"
+        "type": "2"
       },
       {
         "id": 2,
@@ -83,7 +83,7 @@
     "description": "Health Insurance Scheme Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classica",
     "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
     "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-    "type": "1",
+    "type": "0",
     "details": [
       {
         "id": 1,
@@ -91,7 +91,7 @@
         "content": "Steps to enroll in Ayushman Bharat.",
         "imageUrl": "https://st.depositphotos.com/2274151/4841/i/450/depositphotos_48410113-stock-photo-sample-red-square-grungy-stamp.jpg",
         "websiteUrl": "https://stackoverflow.com/questions/5882656/no-activity-found-to-handle-intent-android-intent-action-view",
-        "type": "0"
+        "type": "1"
       },
       {
         "id": 2,
