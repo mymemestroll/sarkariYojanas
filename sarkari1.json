@@ -103,6 +103,25 @@
       "type": "0"
     }
   ]
+},
+    {
+  "id": 5,
+  "title": "अटल वयो अभ्युदय योजना 2024",
+  "description": "<h2>अटल वयो अभ्युदय योजना 2024: वरिष्ठ नागरिकों के लिए सहायता योजना</h2><p>अटल वयो अभ्युदय योजना का उद्देश्य वरिष्ठ नागरिकों को आर्थिक और सामाजिक सुरक्षा प्रदान करना है। इस योजना के अंतर्गत 60 वर्ष से अधिक उम्र के वरिष्ठ नागरिकों को पेंशन, चिकित्सा सहायता, और देखभाल सेवाएं प्रदान की जाती हैं।</p>",
+  "imageUrl": "https://raw.githubusercontent.com/mymemestroll/sarkariYojanas/refs/heads/main/images/ezgif.com-webp-to-png-converter.png",
+  "websiteUrl": "https://sarkariyojn.co.in/atal-vayo-abhyuday-yojana-2024/",
+  "type": "0",
+  "details": [
+    {
+      "id": 1,
+      "title": "अटल वयो अभ्युदय योजना 2024 के लाभ",
+      "content": "<h2>अटल वयो अभ्युदय योजना के लाभ</h2><ul><li>वरिष्ठ नागरिकों को पेंशन</li><li>मुफ्त चिकित्सा सेवाएं</li><li>सामाजिक सुरक्षा</li><li>वृद्धाश्रम और देखभाल केंद्रों में सेवाएं</li></ul>",
+      "imageUrl": "https://static.thenounproject.com/png/3390106-200.png",
+      "websiteUrl": "https://socialjustice.gov.in/schemes/43",
+      "buttonName": "अभी आवेदन करें",
+      "type": "0"
+    }
+  ]
 }
 
   ]
